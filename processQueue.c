@@ -1,6 +1,6 @@
 /** processQueue.c
  * ===========================================================
- * Name: <Last Name, First Name>
+ * Name: <Snyder, Brody>
  * Section: <Section>
  * Project: PEX2 - CPU Scheduling Simulator
  * Purpose: Implements queue operations for the doubly-linked ready

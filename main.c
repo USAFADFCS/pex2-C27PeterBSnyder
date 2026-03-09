@@ -1,6 +1,6 @@
 /** main.c
  * ===========================================================
- * Name: <Last Name, First Name>
+ * Name: <Snyder, Brody>
  * Section: <Section>
  * Project: PEX2 - CPU Scheduling Simulator
  * Purpose: Entry point for the multi-threaded CPU scheduling simulator.

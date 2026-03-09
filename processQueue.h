@@ -1,6 +1,6 @@
 /** processQueue.h
  * ===========================================================
- * Name: <Last Name, First Name>
+ * Name: <Snyder, Brody>
  * Section: <Section>
  * Project: PEX2 - CPU Scheduling Simulator
  * Purpose: Defines the Process, Node, and Queue data structures
