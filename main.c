@@ -1,7 +1,7 @@
 /** main.c
  * ===========================================================
  * Name: <Snyder, Brody>
- * Section: <Section>
+ * Section: <M4>
  * Project: PEX2 - CPU Scheduling Simulator
  * Purpose: Entry point for the multi-threaded CPU scheduling simulator.
  *          Reads simulation parameters from command-line arguments or
@@ -16,12 +16,12 @@
  * ===========================================================
  * ======================================================================
  * Required Features Not Included:1
- *       1)
+ *       1) N/A
  *       2)
  *       3)
  * ======================================================================
  * Known Bugs:
- *       1)
+ *       1) N/A
  *       2)
  *       3)
  * ====================================================================== */
